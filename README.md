@@ -6,13 +6,6 @@
 
 
 ### Computer Science Graduate · Software Engineer · AI/ML Enthusiast
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharva2408.github.io/Personal-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva2408)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvayanna/)
-[![Email](https://img.shields.io/badge/Email-atharvay24%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvay24@gmail.com)
-:::
-
 ------------------------------------------------------------------------
 
 
@@ -75,10 +68,11 @@ Flow](https://img.shields.io/badge/Git%20Flow-0F172A?style=flat-square&logo=git&
 ## `> connect`
 
 [![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharva2408.github.io/Personal-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-atharva2408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva2408)
+
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-atharva2408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva2408) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Yanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvayanna/)
+
 [![Email](https://img.shields.io/badge/Email-atharvay24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvay24@gmail.com)
-:::
 
 
 <!--
