@@ -1,5 +1,3 @@
-# Atharva Yanna
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
@@ -80,13 +78,6 @@ Flow](https://img.shields.io/badge/Git%20Flow-0F172A?style=flat-square&logo=git&
 [![GitHub](https://img.shields.io/badge/GitHub-atharva2408-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atharva2408)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Yanna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvayanna/)
 [![Email](https://img.shields.io/badge/Email-atharvay24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvay24@gmail.com)
-:::
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-`<sub>`{=html}Designed, built, and continuously improved with
-curiosity.`</sub>`{=html}
 :::
 
 
